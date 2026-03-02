@@ -1,7 +1,7 @@
 {
-    "title":"tl小站",
-    "subTitle":"tl小站",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
-
+    "title": "tl小站",
+    "subTitle": "tl小站",
+    "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
+    "GMEEK_VERSION": "last",
+    "indexStyle": "<style>\n:root {\n  --bg-gradient-start: #f9fafc;\n  --bg-gradient-end: #eef1f5;\n  --card-bg: rgba(255,255,255,0.9);\n  --text-primary: #1e293b;\n  --text-secondary: #475569;\n  --border-light: #e2e8f0;\n  --accent: #006b75;\n}\n[data-theme=\"dark\"] {\n  --bg-gradient-start: #0b1a24;\n  --bg-gradient-end: #14242f;\n  --card-bg: rgba(22,36,48,0.85);\n  --text-primary: #e9edf0;\n  --text-secondary: #b4c6d0;\n  --border-light: #2e4050;\n  --accent: #58a6b5;\n}\n.profile-header {\n  background: var(--card-bg);\n  backdrop-filter: blur(12px);\n  border: 1px solid var(--border-light);\n  border-radius: 2.5rem;\n  padding: 2rem 2.5rem;\n  margin-bottom: 3rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n.post-grid {\n  display: grid;\n  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));\n  gap: 2rem;\n}\n.post-card {\n  background: var(--card-bg);\n  backdrop-filter: blur(8px);\n  border: 1px solid var(--border-light);\n  border-radius: 2rem;\n  padding: 1.8rem;\n  transition: all 0.25s;\n  text-decoration: none;\n  color: inherit;\n}\n.post-card:hover {\n  transform: translateY(-6px);\n  border-color: var(--accent);\n}\n.date-badge {\n  background: #1f883d;\n  color: white;\n  padding: 0.3rem 1rem;\n  border-radius: 40px;\n}\n.tag {\n  background: var(--tag-bg, #eef2f6);\n  color: var(--text-secondary);\n  padding: 0.25rem 1rem;\n  border-radius: 40px;\n  font-size: 0.8rem;\n}\n</style>"
 }
